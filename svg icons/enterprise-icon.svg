@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Metropolitan City Icon for Enterprise Plan -->
+  <g transform="translate(150, 150)">
+    <!-- Skyscrapers -->
+    <rect x="-80" y="-80" width="30" height="120" fill="#5C6BC0" stroke="#3949AB" stroke-width="2"/>
+    <rect x="-70" y="-70" width="10" height="100" fill="#C5CAE9" opacity="0.3"/>
+    
+    <rect x="-30" y="-100" width="40" height="140" fill="#26A69A" stroke="#00796B" stroke-width="2"/>
+    <rect x="-20" y="-90" width="20" height="120" fill="#B2DFDB" opacity="0.3"/>
+    
+    <rect x="30" y="-120" width="50" height="160" fill="#7E57C2" stroke="#512DA8" stroke-width="2"/>
+    <rect x="40" y="-110" width="30" height="140" fill="#D1C4E9" opacity="0.3"/>
+    
+    <!-- Modern Features -->
+    <circle cx="-65" cy="-90" r="5" fill="#FDD835"/>
+    <circle cx="-10" cy="-110" r="5" fill="#FDD835"/>
+    <circle cx="55" cy="-130" r="5" fill="#FDD835"/>
+    
+    <!-- Base Road System -->
+    <rect x="-90" y="40" width="180" height="10" fill="#37474F"/>
+    <path d="M-80,45 L-60,45 M-40,45 L-20,45 M0,45 L20,45 M40,45 L60,45 M80,45 L100,45" 
+          stroke="#FFFFFF" stroke-width="2" stroke-dasharray="10,10"/>
+  </g>
+</svg>
